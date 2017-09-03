@@ -64,7 +64,7 @@ The intro day wasn't too bad. However, starting from the second day, I was surpr
 
 Even though what was taught in the class isn't too hard to grasp, much of the Docker stuff doesn't really make sense until one has actually worked with it. Thus, I feel like introducing a whole bunch of Docker commands to those who have never touched Docker could be quite overwhelming. 
 
-Apart from that, I found Assertions to be pretty cool, especially when I've only used them for unit testing. I'll try to make use of them more in my side-projects and hopefully more bug-free lines of code will be produced in lesser time. 
+Apart from that, I found Assertions to be pretty cool, especially when I've only used them for unit testing. I'll try to make use of them more in my side-projects and hopefully more bug-free lines of code will be produced in less time. 
 
 Tips of the week 
 ---
