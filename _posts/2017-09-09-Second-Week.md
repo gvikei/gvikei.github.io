@@ -11,9 +11,9 @@ This week I start to feel the stress of college life when recruiting, career fai
 
 Sorry, I just don't feel comfortable going through what I did throughout the week because I'm afraid I'll be accidentally disclosing personal info that shouldn't be on the Internet, so I won't write much on this.
 
-*On the flip side, in an attempt to de-stress and balance myself because being too techie is unhealthy, I watched 2 seriously good wartime movies namely ["Nostalgia for the Countryside"](http://www.imdb.com/title/tt0117204/) and ["When the Tenth Month Comes"](http://www.imdb.com/title/tt0118148/), all by Dang Nhat Minh - one of Vietnam's greatest directors ever.*
+On the flip side, in an attempt to de-stress and balance myself because being too techie is unhealthy, I watched 2 seriously good wartime movies namely ["Nostalgia for the Countryside"](http://www.imdb.com/title/tt0117204/) and ["When the Tenth Month Comes"](http://www.imdb.com/title/tt0118148/), all by Dang Nhat Minh - one of Vietnam's greatest directors ever.
 
-*The movies showed me the lost traditions of my people that I never knew of, and above all, how beautiful it is to have patriotism, sympathy, faithfulness and kindness being practiced widely and deliberately by all individuals within a community. I was deeply touched by how much one can sacrifice for others, by the highly artistic angle shots, and by the emotionally swaying poems brilliantly injected the in those movies.*
+The movies showed me the lost traditions of my people that I never knew of, and above all, how beautiful it is to have patriotism, sympathy, faithfulness and kindness being practiced widely and deliberately by all individuals within a community. I was deeply touched by how much one can sacrifice for others, by the highly artistic angle shots, and by the emotionally swaying poems brilliantly injected the in those movies.
 
 What's in my way?
 ---
