@@ -25,7 +25,7 @@ Anemia, cramps, backaches and mood swing (due to menstruation). I got to experie
 Plan for next week
 ---
 
-Planning is actually the most tricky part. I'm having at least 4 interviews next week, along with coding challenges, classes, assignments and other personal duties to fulfill. So far, school has taken a lot of the time I usually dedicated for interview prep, which worries me the most. Of course I can always cram multiple interviews within a day, however, that's pretty much the best way to fail everything, including interviews and classes. Therefore, my plan for next week is to fit everything into my schedule in the most reasonable way.
+Planning is actually the most tricky part. I'm having at least 4 interviews next week, along with coding challenges, classes, assignments and other personal duties to fulfill. So far, school has taken a lot of the time I usually dedicated for interview prep, which worries me the most. Of course I can always cram multiple interviews into a day, however, that's pretty much the best way to fail everything, including interviews and classes. Therefore, my plan for next week is to fit everything into my schedule in the most reasonable way.
 
 My experience of the class
 ---
