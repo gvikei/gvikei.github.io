@@ -14,7 +14,7 @@ On **Monday**, I talked to a company that I've been exchanging emails with. I in
 
 **Thursday morning**, I attended to the Friends of Computer Science (FoCS)'s Career Brunch, which was an exclusive event for a small group of students within the CS department to network with partnering companies. I was so happy to see my CS429 TA there, especially when he was recruiting for a company that I'm very interested in and got to say "Hi" to a recruiter that I had only talked to on the phone. **Thursday evening** came the College of Natural Science's Career Fair. This event cost me 5 hours and a lot of energy, but I'm not complaining since I've got the interviews that I wanted in return. After the Career Fair, I went straight to the CS lab to work on Collatz since it was also due on that day. 
 
-**Friday** was a bit more relaxing. Apart from class, I attended Quora's then Uber's tech talks and learned a lot cool new things. I also visited my doctor to do a quick check-up on a chronic illness that I have that.
+**Friday** was a bit more relaxing. Apart from class, I attended Quora's then Uber's tech talks and learned a lot cool new things. I also visited my doctor to do a quick check-up on a chronic illness.
 
 
 What's in my way?
