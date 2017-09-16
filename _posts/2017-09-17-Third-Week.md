@@ -3,6 +3,7 @@ layout: post
 title: Week 3 - Physically breaking down
 ---
 
+Never did I think I would break down on the very first weeks of college, yet this happened. However, I'd say this is a blessing in disguise, since my exams and on-sites are yet to come.
 
 "What I've done"? 
 ---
