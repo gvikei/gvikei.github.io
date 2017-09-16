@@ -9,10 +9,9 @@ title: Week 3 - Physically breaking down
 
 Most of what I did this week boils down to three things: talking to companies, doing interviews and working on the Collatz project. 
 
-On **Monday**, I talked to a company that I've been exchanging emails with. 
-**Tuesday**, I interviewed with a company that I was referred to and later went to the Bloomberg's tech talk. **Wednesday**, I had another on-campus interview which I later heard good news from and I also went to Dropbox's interview workshop in the evening. 
+On **Monday**, I talked to a company that I've been exchanging emails with. I interviewed with a company that I was referred to and went to the Bloomberg's tech talk the next day. **Wednesday**, I had another on-campus interview that I later heard good news from and I also checked the Dropbox's interview workshop out in the evening. 
 
-**Thursday morning**, I attended to the Friends of Computer Science (FoCS)'s Career Brunch, which was an exclusive event for a small group of students within the CS department to network with partnering companies. I was so happy to see my CS429 TA there, especially when he was recruiting for a company that I'm very interested in. **Thursday evening** was the College of Natural Science's Career Fair. This event cost me 5 hours and a lot of energy, but I'm not complaining since I've got the interviews that I wanted in return. After the Career Fair, I went straight to the CS lab to work on Collatz since it was also due on that day. 
+**Thursday morning**, I attended to the Friends of Computer Science (FoCS)'s Career Brunch, which was an exclusive event for a small group of students within the CS department to network with partnering companies. I was so happy to see my CS429 TA there, especially when he was recruiting for a company that I'm very interested in and got to say "Hi" to a recruiter that I had only talked to on the phone. **Thursday evening** came the College of Natural Science's Career Fair. This event cost me 5 hours and a lot of energy, but I'm not complaining since I've got the interviews that I wanted in return. After the Career Fair, I went straight to the CS lab to work on Collatz since it was also due on that day. 
 
 **Friday** was a bit more relaxing. Apart from class, I attended Quora's then Uber's tech talks and learned a lot cool new things. I also visited my doctor to do a quick check-up on a chronic illness that I have that.
 
@@ -25,7 +24,7 @@ Anemia, cramps, backaches and mood swing (due to menstruation). I got to experie
 Plan for next week
 ---
 
-Planning is actually the most tricky part. I'm having at least 4 interviews next week, along with coding challenges, classes, assignments and other personal duties to fulfill. So far, school has taken a lot of the time I usually dedicated for interview prep, which worries me the most. Of course, I can always cram multiple interviews within a day. However, that's pretty much the best way to fail everything, including interviews and classes. Therefore, my plan for next week is to fit everything into my schedule in the most reasonable way.
+Planning is actually the most tricky part. I'm having at least 4 interviews next week, along with coding challenges, classes, assignments and other personal duties to fulfill. So far, school has taken a lot of the time I usually dedicated for interview prep, which worries me the most. Of course I can always cram multiple interviews within a day, however, that's pretty much the best way to fail everything, including interviews and classes. Therefore, my plan for next week is to fit everything into my schedule in the most reasonable way.
 
 My experience of the class
 ---
