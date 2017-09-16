@@ -10,17 +10,17 @@ title: Week 3 - Physically breaking down
 Most of what I did this week boils down to three things: talking to companies, doing interviews and working on the Collatz project. 
 
 On **Monday**, I talked to a company that I've been exchanging emails with. 
-**Tuesday** I interviewed with a company that I was referred to and later went to the Bloomberg's tech talk. **Wednesday**, I had another on-campus interview which I later heard good news from, and I also went to Dropbox's interview workshop in the evening. 
+**Tuesday**, I interviewed with a company that I was referred to and later went to the Bloomberg's tech talk. **Wednesday**, I had another on-campus interview which I later heard good news from and I also went to Dropbox's interview workshop in the evening. 
 
-**Thursday morning**, I attended to the Friends of Computer Science (FoCS)'s Career Brunch, which is an exclusive event for a small group of students within the CS department to network with partnering companies. I was so happy to see my CS429 TA there again, especially when he was recruiting for a company that I'm very interested in. **Thursday evening** was the College of Natural Science's Career Fair. This event cost me 5 hours and a lot of energy, but I'm not complaining since I've got the interviews that I wanted in return. After the Career Fair, I went straight to the CS lab to work on Collatz since it was also due on that day. 
+**Thursday morning**, I attended to the Friends of Computer Science (FoCS)'s Career Brunch, which was an exclusive event for a small group of students within the CS department to network with partnering companies. I was so happy to see my CS429 TA there, especially when he was recruiting for a company that I'm very interested in. **Thursday evening** was the College of Natural Science's Career Fair. This event cost me 5 hours and a lot of energy, but I'm not complaining since I've got the interviews that I wanted in return. After the Career Fair, I went straight to the CS lab to work on Collatz since it was also due on that day. 
 
-**Friday** was a bit more relaxing. Apart from class, I attended Quora's then Uber's tech talks and learned a lot cool new things. I also visited my doctor to do a quick check-up on a chronic illness that I have that evening.
+**Friday** was a bit more relaxing. Apart from class, I attended Quora's then Uber's tech talks and learned a lot cool new things. I also visited my doctor to do a quick check-up on a chronic illness that I have that.
 
 
 What's in my way?
 ---
 
-Anemia, cramps, backaches and mood swing (due to menstruation). I got to experience those symptoms multiple times each day this week. My ability to focus significantly decreased and I felt exhausted throughout the day. This also negatively impacted my immune system, which resulted in a not-yet-ended fever and fever blister. 
+Anemia, cramps, backaches and mood swing (due to menstruation). I got to experience those symptoms multiple times each day this week. My productivity as well as my ability to focus significantly decreased and I constantly felt exhausted throughout the day. This also negatively impacted my immune system, which resulted in a not-yet-ended fever and fever blister. 
 
 Plan for next week
 ---
@@ -32,7 +32,7 @@ My experience of the class
 
 My experience of the class has been much better recently. Part of the reason is that I've gone through the first project, and now the [40-something-bullet-point workflow](http://www.cs.utexas.edu/users/downing/cs373/Workflow.html) has started to make more sense. I also greatly enjoy professor Downing's lectures thanks to the novel pieces of knowledge and especially his excellent verbal skills. 
 
-In terms of programming assignments, I wish the requirements were less tedious and confusing. For example, I just don't get why students have to open exactly 15 issues on Github *before* touching any code. Not only this is unnatural but it also creates a bad habit of making things up just to fulfill the requirements, rather than actually seeing the need to keep track of tasks/bugs or learning how *collaboratively* resolving issues using VCS.
+In terms of programming assignments, I wish the requirements were less tedious and confusing. For example, I just don't get why students have to open exactly 15 issues on Github *before* touching any code. This not only is unnatural but also creates a bad habit of making things up just to fulfill the requirements rather than actually seeing the need to keep track of tasks/bugs or learning how to *collaboratively* resolving issues.
 
 Tips of the week 
 ---
