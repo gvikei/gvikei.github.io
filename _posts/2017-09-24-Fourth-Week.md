@@ -26,7 +26,7 @@ There's a lot more on what's in my way, but since I don't have time, I'll just l
 1. My IR formula doesn't, and I have no idea why :'(
 2. An insane number of coding challenges to be completed
 3. Scheduling and doing interviews
-4. A 2500 word design doc and a completely blank API documentation.
+4. A 2500-word technical report and a completely blank API documentation.
 5. Readingssss
 
 Plan for next week
