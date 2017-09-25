@@ -23,7 +23,7 @@ The worst part was configuring SWE's IDB project. I personally haven't touched R
 
 There's a lot more on what's in my way, but since I don't have time, I'll just list them out here without getting into too much detail: 
 
-1. My IR formula doesn't, and I have no idea why :'(
+1. My IR formula doesn't work, and I have no idea why :'(
 2. An insane number of coding challenges to be completed
 3. Scheduling and doing interviews
 4. A 2500-word technical report and a completely blank API documentation.
