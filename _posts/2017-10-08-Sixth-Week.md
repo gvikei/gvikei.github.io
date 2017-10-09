@@ -6,7 +6,7 @@ title: Week 6
 "What I've done"? 
 ---
 
-I picked up some React as planned last week and converted a small part of our currently-static-website to a more dynamic version. Our team didn't meet in person a lot this week because most of the tasks can be done remotely. We also divided our group into a back-end group and a front-end group to execute faster with less overhead.
+I picked up some React as planned last week and converted a part of our currently-static-website to a more dynamic version. Our team didn't meet in person a lot this week because most of the tasks can be done remotely. We also divided our group into a back-end group and a front-end group to execute faster with less overhead.
 
 As my AI class project is to modify a given implementation to solve the 3-disk version of the Tower of Hanoi problem, I spent some time writing the DFS solution from scratch (although this wasn't required) as I believe this would solidify my understanding and make things easier than directly implementing the solution inside someone else's code.
 
@@ -15,7 +15,9 @@ It was a busy week as I also had 5 interviews apart from classes and assignments
 What's in my way?
 ---
 
-I have a lot to do in the next 5 days: 1 interview, 2 projects, an out-of-town trip during the week, and one exam right after. Not having enough time to be well-prepared for all these is stressing the heck out of me.
+Google Cloud Platform is so COSTLY. It quickly ate up my $50 coupon shortly after I deployed my group website, then I added another $50 coupon, thinking this time it'd be fine as I had carefully shut down all other projects on the same billing account. But nah, my account balance quickly shrunk down to twenty-something dollars over a few days and I had to take my site down as I don't have any more coupons to throw in for now.
+
+Technically stuff aside, I have a lot to do in the next 5 days: 1 interview, 2 projects, an out-of-town trip during the week, and one exam right after. Not having enough time to be well-prepared for all these is stressing the heck out of me.
 
 Plan for next week
 ---
@@ -27,7 +29,7 @@ My experience of the class
 
 I got to appreciate what professor Downing taught while debugging my implementation for the Tower of Hanoi problem.
 
-Previously, I had always thought Python was much easier compared to other "real" programming languages like Java or C++. Yet, I stumbled over a deceptively nasty bug while just doing simple DFS. Without the knowledge of immutability of different Python objects from in this class, I don't think I wouldn't have figured out why my program was running incorrectly.
+Previously, I had always thought Python was much easier compared to other "real" programming languages like Java or C++. Yet, I stumbled over a deceptively simple bug while just doing DFS. Without the knowledge of immutability of different Python classes from this class, I don't think I wouldn't have figured out why my program was running incorrectly.
 
 On the other hand, I am really thankful for prof Downing's supportiveness and flexibility when one of my on-sites happens to overlap with the class schedule. It was beyond my expectation that he agreed to provide extra accommodation, which would rarely be the case with other professors.
 
