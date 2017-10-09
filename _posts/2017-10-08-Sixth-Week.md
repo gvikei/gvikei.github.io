@@ -29,11 +29,10 @@ I got to appreciate what professor Downing taught while debugging my implementat
 
 Previously, I had always thought Python was much easier compared to other "real" programming languages like Java or C++. Yet, I stumbled over a deceptively nasty bug while just doing simple DFS. Without the knowledge of immutability of different Python objects from in this class, I don't think I wouldn't have figured out why my program was running incorrectly.
 
-On the other hand, I am really thankful for prof Downing's supportiveness and flexibility when one of my on-sites happens to overlap with the class schedule. It was beyond my expectation that he agreed to provide extra accommodation, which isn't the case with other professors that I had in the past.
-
+On the other hand, I am really thankful for prof Downing's supportiveness and flexibility when one of my on-sites happens to overlap with the class schedule. It was beyond my expectation that he agreed to provide extra accommodation, which would rarely be the case with other professors.
 
 Tips of the week 
 ---
-I frequently experience extreme exhaustion and I don't really know what causes it. But since I'm getting at least 7 hours of sleep a night and exercise weekly, I think it has to do with myself not eating healthily enough. 
+I frequently experience extreme exhaustions throughout the day and I don't really know what causes them. But since I'm getting roughly 7 hours of sleep a night and exercise weekly, I think it has to do with myself not eating healthily enough. 
 
-Thus I did myself a favor last week by purchasing and using herbal supplements, namely [Hawaiian Spirulina](https://www.amazon.com/gp/product/B0039ITKRY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&th=1) and [Gingko Biloba extract](https://www.amazon.com/gp/product/B071RY61KV/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1). They didn't fail me at all, and I have been able to focus and think with clarity for 5+ hours straight at night, which never happened before and I thus got more work done. I would recommend giving them a try if you find yourself running out of energy but there's too much on your plate.
+So I did myself a favor last week by purchasing and using herbal supplements, namely [Hawaiian Spirulina](https://www.amazon.com/gp/product/B0039ITKRY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&th=1) and [Gingko Biloba extract](https://www.amazon.com/gp/product/B071RY61KV/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1). They didn't fail me at all, and I have been able to focus and think with clarity for 5+ hours straight at night, which never happened before and I thankfully got more work done. I would recommend giving them a try if there's too much on your plate and you just find yourself running out of energy.
