@@ -15,7 +15,7 @@ Right now, I'm in Houston for another on-site and feeling quite bad about missin
 What's in my way?
 ---
 
-Right now I'm debating whether to cancel an on-site with a company, now that I've had an offer which I'm probably going to take. Since the flights and the hotel have been booked already, I'm just scared to tell the recruiter that I won't be going and just wasting their money. 
+Currently, I'm debating whether to cancel an on-site with a company that I really like, now that I've had an offer which I'm probably going to take. Since the flights and the hotel have been booked already, I'm just scared to tell the recruiter that I won't be going and just wasting their money. 
 
 On the other hand, I do really want to schedule the on-site with Google before my current offer expires. However, at the same time, all the guilts and worries eat me up when I think about the (attendance) grades, the materials that I'm missing, and especially the workload that I won't be sharing with my teammates.
 
